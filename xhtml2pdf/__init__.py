@@ -30,7 +30,7 @@ The following Python packages are required for PISA:
 - HTML5lib >= 0.11.1 <http://code.google.com/p/html5lib/>
 
 Optional packages:
-- pyPDF <http://pybrary.net/pyPdf/>
+- pyPDF <http://pybrary.net/PyPDF2/>
 - PIL <http://www.pythonware.com/products/pil/>
 
 """.lstrip()
